@@ -1,0 +1,56 @@
+﻿<Window x:Class="IHCproject.MainWindow"
+        
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Height="640" Width="360">
+    <Grid Height="640" Width="360">
+        <Label Content="Welcome to EZStand!" HorizontalAlignment="Center" Height="50" Margin="0,89,0,0" VerticalAlignment="Top" Width="212" FontSize="22" FontWeight="Bold" RenderTransformOrigin="0.164,1.817"/>
+        <Grid HorizontalAlignment="Left" Height="34" Margin="44,164,0,0" VerticalAlignment="Top" Width="138"/>
+        <StackPanel HorizontalAlignment="Left" Height="36" Margin="42,163,0,0" VerticalAlignment="Top" Width="141"/>
+        <materialDesign:PackIcon Kind="Account" Width="20" Height="20" Foreground="{Binding ElementName=txtemail}" Margin="22,195,0,0"></materialDesign:PackIcon>
+        <TextBox x:Name="txtemail" materialDesign:HintAssist.Hint="Email" Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Top" Margin="77,174,72,0" TextChanged="TextBox_TextChanged" Height="41" />
+        <PasswordBox
+  x:Name="Password"
+  materialDesign:HintAssist.Hint="Password"
+  materialDesign:HintAssist.Foreground="Green"
+  materialDesign:TextFieldAssist.UnderlineBrush="Green"
+  Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" Margin="77,245,72,353" />
+        <materialDesign:PackIcon Kind="PasswordReset" Width="20" Height="20" Foreground="{Binding ElementName=Password}" Margin="22,267,0,0"></materialDesign:PackIcon>
+        <Button
+    Style="{StaticResource MaterialDesignRaisedLightButton}"
+    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="32,356,201,252" Click="Login_Buyer_Click" Content="Login as Buyer"/>
+        <Button
+    Style="{StaticResource MaterialDesignRaisedLightButton}"
+    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="195,356,38,252" Click="Login_Seller_Click" Content="Login as Seller" RenderTransformOrigin="0.882,0.522"/>
+        <Label Content="or" HorizontalAlignment="Center" Height="24" Margin="0,402,0,0" VerticalAlignment="Top" Width="26" RenderTransformOrigin="1.107,0.508"/>
+        <Button
+    Style="{StaticResource MaterialDesignRaisedLightButton}"
+    ToolTip="Resource name: MaterialDesignRaisedLightButton" Margin="107,460,113,148" Click="Create_Account_Click" Content="Create Account" RenderTransformOrigin="0.882,0.522"/>
+
+        <materialDesign:ColorZone
+  Mode="Inverted"
+  Padding="16" Grid.ColumnSpan="2">
+            <DockPanel>
+
+                <StackPanel
+      Orientation="Horizontal">
+                    <TextBlock
+        VerticalAlignment="Center"
+        Margin="130 0 0 0" FontSize="20">
+      EZStand
+                    </TextBlock>
+                </StackPanel>
+            </DockPanel>
+        </materialDesign:ColorZone>
+    </Grid>
+</Window>

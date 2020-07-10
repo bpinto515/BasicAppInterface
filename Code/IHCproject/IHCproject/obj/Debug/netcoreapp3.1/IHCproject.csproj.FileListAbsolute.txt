@@ -1,0 +1,224 @@
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.csprojAssemblyReference.cache
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject_MarkupCompile.cache
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject_MarkupCompile.lref
+C:\Users\joaop\source\repos\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.exe
+C:\Users\joaop\source\repos\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.deps.json
+C:\Users\joaop\source\repos\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.runtimeconfig.json
+C:\Users\joaop\source\repos\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.runtimeconfig.dev.json
+C:\Users\joaop\source\repos\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.dll
+C:\Users\joaop\source\repos\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.pdb
+C:\Users\joaop\source\repos\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\joaop\source\repos\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.g.resources
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.csproj.CoreCompileInputs.cache
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.AssemblyInfoInputs.cache
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.AssemblyInfo.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.csproj.CopyComplete
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.dll
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.pdb
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.genruntimeconfig.cache
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccount.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccount.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccountBuyer.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccountBuyer.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHome.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHome.g.cs
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHome.baml
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccount.baml
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccountBuyer.baml
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHome.g.cs
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccount.g.cs
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccountBuyer.g.cs
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject_MarkupCompile.cache
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject_MarkupCompile.lref
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\App.baml
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.g.resources
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.pdb
+C:\project\project\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.exe
+C:\project\project\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.deps.json
+C:\project\project\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.runtimeconfig.json
+C:\project\project\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.runtimeconfig.dev.json
+C:\project\project\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.dll
+C:\project\project\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.pdb
+C:\project\project\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\project\project\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.csproj.CoreCompileInputs.cache
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.AssemblyInfoInputs.cache
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.AssemblyInfo.cs
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.csproj.CopyComplete
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.dll
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.genruntimeconfig.cache
+C:\project\project\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.csprojAssemblyReference.cache
+C:\project\Ihcproject\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.exe
+C:\project\Ihcproject\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.deps.json
+C:\project\Ihcproject\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.runtimeconfig.json
+C:\project\Ihcproject\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.runtimeconfig.dev.json
+C:\project\Ihcproject\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.dll
+C:\project\Ihcproject\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.pdb
+C:\project\Ihcproject\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\project\Ihcproject\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.csprojAssemblyReference.cache
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHome.baml
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccount.baml
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccountBuyer.baml
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHome.g.cs
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccount.g.cs
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccountBuyer.g.cs
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject_MarkupCompile.cache
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject_MarkupCompile.lref
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\App.baml
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.g.resources
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.csproj.CoreCompileInputs.cache
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.AssemblyInfoInputs.cache
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.AssemblyInfo.cs
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.csproj.CopyComplete
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.dll
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.pdb
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.genruntimeconfig.cache
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHomeStands.baml
+C:\project\Ihcproject\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHomeStands.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHomeStands.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccountSeller.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHomeStands.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccountSeller.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaSearchResult.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaSearchResult.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaPage.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaPage.g.cs
+<<<<<<< HEAD
+C:\project\Ihcproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.exe
+C:\project\Ihcproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.deps.json
+C:\project\Ihcproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.runtimeconfig.json
+C:\project\Ihcproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.runtimeconfig.dev.json
+C:\project\Ihcproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.dll
+C:\project\Ihcproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.pdb
+C:\project\Ihcproject\IHCproject\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\project\Ihcproject\IHCproject\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHome.baml
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHomeStands.baml
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaPage.baml
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaSearchResult.baml
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccount.baml
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccountBuyer.baml
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccountSeller.baml
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHome.g.cs
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHomeStands.g.cs
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaPage.g.cs
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaSearchResult.g.cs
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccount.g.cs
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccountBuyer.g.cs
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccountSeller.g.cs
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject_MarkupCompile.cache
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject_MarkupCompile.lref
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\App.baml
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.g.resources
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.csproj.CoreCompileInputs.cache
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.AssemblyInfoInputs.cache
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.AssemblyInfo.cs
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.csproj.CopyComplete
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.dll
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.pdb
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.genruntimeconfig.cache
+=======
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\AccountSettings.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\AccountSettings.g.cs
+>>>>>>> 1279ef4f00130308d2a45c4292f49e504cbd3501
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.csprojAssemblyReference.cache
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\AccountSettings.baml
+C:\project\Ihcproject\IHCproject\obj\Debug\netcoreapp3.1\AccountSettings.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CarNextRating.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CarsInStand.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CarNextRating.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CarsInStand.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\AddCar.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CarHistory.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaAreYouSure.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaDescription.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\SellerHome.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\AddCar.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CarHistory.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaAreYouSure.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaDescription.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\Resources\SellerHome.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\SellerHome.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\Resources\SellerHome.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaEdit.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaEdit.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\ReaddAreYouSure.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\ReaddAreYouSure.g.cs
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\AccountSettingsChange.baml
+C:\Users\joaop\source\repos\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\AccountSettingsChange.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.exe
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.deps.json
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.runtimeconfig.json
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.runtimeconfig.dev.json
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.dll
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\IHCproject.pdb
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\bin\Debug\netcoreapp3.1\MaterialDesignThemes.Wpf.dll
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.csprojAssemblyReference.cache
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\AccountSettings.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\AccountSettingsChange.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\AddCar.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHome.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHomeStands.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CarHistory.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CarNextRating.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CarsInStand.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaAreYouSure.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaDescription.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaEdit.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaPage.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaSearchResult.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccount.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccountBuyer.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccountSeller.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\ReaddAreYouSure.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\SellerHome.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\AccountSettings.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\AccountSettingsChange.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\AddCar.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHome.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\BuyerHomeStands.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CarHistory.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CarNextRating.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CarsInStand.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaAreYouSure.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaDescription.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaEdit.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaPage.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CorsaSearchResult.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccount.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccountBuyer.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\CreateAccountSeller.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\ReaddAreYouSure.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\Resources\SellerHome.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\SellerHome.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject_MarkupCompile.cache
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject_MarkupCompile.lref
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\App.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\Resources\SellerHome.baml
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.g.resources
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.csproj.CoreCompileInputs.cache
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.AssemblyInfoInputs.cache
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.AssemblyInfo.cs
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.csproj.CopyComplete
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.dll
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.pdb
+C:\Users\joaop\OneDrive\Ambiente de Trabalho\P6_EZStand\Code\IHCproject\IHCproject\obj\Debug\netcoreapp3.1\IHCproject.genruntimeconfig.cache

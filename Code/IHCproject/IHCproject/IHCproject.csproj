@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Resources\corsablack2002.jpg" />
+    <None Remove="Resources\corsagray.jpg" />
+    <None Remove="Resources\Screenshot_21.png" />
+    <None Remove="Resources\Screenshot_22.png" />
+    <None Remove="Resources\Screenshot_23.png" />
+    <None Remove="Resources\Screenshot_24.png" />
+    <None Remove="Resources\Screenshot_25.png" />
+    <None Remove="Resources\Screenshot_26.png" />
+    <None Remove="Resources\Screenshot_27.png" />
+    <None Remove="Resources\Screenshot_28.png" />
+    <None Remove="Resources\Screenshot_29.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MaterialDesignThemes" Version="3.1.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Resources\corsablack2002.jpg" />
+    <Resource Include="Resources\corsagray.jpg" />
+    <Resource Include="Resources\Screenshot_21.png" />
+    <Resource Include="Resources\Screenshot_22.png" />
+    <Resource Include="Resources\Screenshot_23.png" />
+    <Resource Include="Resources\Screenshot_24.png" />
+    <Resource Include="Resources\Screenshot_25.png" />
+    <Resource Include="Resources\Screenshot_26.png" />
+    <Resource Include="Resources\Screenshot_27.png" />
+    <Resource Include="Resources\Screenshot_28.png" />
+    <Resource Include="Resources\Screenshot_29.png" />
+  </ItemGroup>
+
+</Project>

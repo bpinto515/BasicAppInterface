@@ -1,0 +1,63 @@
+﻿<Window x:Class="IHCproject.AccountSettingsChange"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Height="640" Width="360">
+    <Grid Height="640" Width="360">
+        <Label Content="Account Update" HorizontalAlignment="Center" Height="50" Margin="0,107,0,0" VerticalAlignment="Top" Width="166" FontSize="22" FontWeight="Bold" RenderTransformOrigin="0.164,1.817"/>
+        <Grid HorizontalAlignment="Left" Height="34" Margin="114,140,0,0" VerticalAlignment="Top" Width="138" Cursor=""/>
+        <materialDesign:PackIcon Kind="Account" Width="20" Height="20" Foreground="{Binding ElementName=txtemail}" Margin="28,226,0,0"></materialDesign:PackIcon>
+        <TextBox x:Name="txtemail" materialDesign:HintAssist.Hint="joaobruno@ua.pt" Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Top" Margin="83,206,66,0" TextChanged="TextBox_TextChanged" Height="40" />
+        <materialDesign:PackIcon Kind="Phone" Width="20" Height="20" Foreground="{Binding ElementName=txtphone}" Margin="28,435,0,0"></materialDesign:PackIcon>
+        <TextBox x:Name="txtphone" materialDesign:HintAssist.Hint="961234567" Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Top" Margin="83,415,66,0" TextChanged="TextBox_TextChanged" Height="40" />
+        <materialDesign:PackIcon Kind="City" Width="20" Height="20" Foreground="{Binding ElementName=txtlocation}" Margin="28,506,0,0" RenderTransformOrigin="0.7,3.152"></materialDesign:PackIcon>
+        <TextBox x:Name="txtlocation" materialDesign:HintAssist.Hint="Aveiro" Style="{StaticResource MaterialDesignFloatingHintTextBox}" VerticalAlignment="Top" Margin="83,486,66,0" TextChanged="TextBox_TextChanged" Height="40" />
+        <PasswordBox
+  x:Name="Password"
+  materialDesign:HintAssist.Hint="Password"
+  materialDesign:HintAssist.Foreground="Green"
+  materialDesign:TextFieldAssist.UnderlineBrush="Green"
+  Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" Margin="83,276,66,322" />
+        <materialDesign:PackIcon Kind="PasswordReset" Width="20" Height="20" Foreground="{Binding ElementName=Password}" Margin="28,298,0,0"></materialDesign:PackIcon>
+
+        <materialDesign:ColorZone
+  Mode="Inverted"
+  Padding="16" Grid.ColumnSpan="2">
+            <DockPanel>
+
+                <StackPanel
+      Orientation="Horizontal">
+                    <materialDesign:PackIcon Kind="ArrowLeft" Height="37" Width="41" MouseDown="Back_Click"/>
+                    <TextBlock
+        VerticalAlignment="Center"
+        Margin="90 0 0 0" FontSize="20">
+      EZStand
+                    </TextBlock>
+                </StackPanel>
+            </DockPanel>
+        </materialDesign:ColorZone>
+
+        <Button
+    Style="{StaticResource MaterialDesignRaisedLightButton}"
+    Width="100"
+    ToolTip="Resource name: MaterialDesignRaisedLightButton" RenderTransformOrigin="0.335,4.204" Margin="130,559,130,49" FontSize="18" Click="Button_Click">
+            Done
+        </Button>
+        <materialDesign:PackIcon Kind="PasswordReset" Width="20" Height="20" Foreground="{Binding ElementName=Password}" Margin="28,369,0,0"/>
+        <PasswordBox
+            x:Name="Password_Copy"
+            materialDesign:HintAssist.Hint="Confirm Password"
+            materialDesign:HintAssist.Foreground="Green"
+            materialDesign:TextFieldAssist.UnderlineBrush="Green"
+            Style="{StaticResource MaterialDesignFloatingHintPasswordBox}" Margin="83,347,66,251" />
+    </Grid>
+</Window>

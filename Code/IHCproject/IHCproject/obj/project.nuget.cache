@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "EJ3dDkAp9jRabwK57f1rO49tFZpt0ryfYhGg2pzVnKHGXWUWIr0NVpoWwUgG7qtu7TDNEZ0IOwC/RAW5AgJAgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaop\\OneDrive\\Ambiente de Trabalho\\P6_EZStand\\Code\\IHCproject\\IHCproject\\IHCproject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaop\\.nuget\\packages\\materialdesigncolors\\1.2.5\\materialdesigncolors.1.2.5.nupkg.sha512",
+    "C:\\Users\\joaop\\.nuget\\packages\\materialdesignthemes\\3.1.2\\materialdesignthemes.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

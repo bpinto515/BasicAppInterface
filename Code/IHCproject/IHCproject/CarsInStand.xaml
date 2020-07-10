@@ -1,0 +1,97 @@
+﻿<Window x:Class="IHCproject.CarsInStand"
+         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Height="640" Width="360">
+    <Window.Resources>
+        <ImageBrush x:Key="MyResource" ImageSource="Resources/corsablack2002.jpg" />
+    </Window.Resources>
+    <Grid Height="640" Width="360" Margin="0,0,0,-16">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0*"/>
+        </Grid.ColumnDefinitions>
+        <Grid HorizontalAlignment="Left" Height="34" Margin="44,164,0,0" VerticalAlignment="Top" Width="138"/>
+        <StackPanel HorizontalAlignment="Left" Height="36" Margin="42,163,0,0" VerticalAlignment="Top" Width="141"/>
+
+
+        <materialDesign:ColorZone
+  Mode="Inverted"
+  Padding="16" Height="69">
+            <DockPanel>
+                <materialDesign:PopupBox
+      DockPanel.Dock="Right"
+      PlacementMode="BottomAndAlignRightEdges">
+                    <ListBox>
+
+                        <ListBoxItem Selected="Logout_Click">
+                            <Button Style="{StaticResource MaterialDesignFlatButton}" ToolTip="MaterialDesignFlatButton" Click="Logout_Click">Logout</Button>
+                        </ListBoxItem>
+                        <ListBoxItem Selected="AccountSettings_Click">
+                            <Button Style="{StaticResource MaterialDesignFlatButton}"  ToolTip="MaterialDesignFlatButton" Click="AccountSettings_Click">Account Settings</Button>
+                        </ListBoxItem>
+
+                    </ListBox>
+                </materialDesign:PopupBox>
+                <StackPanel
+      Orientation="Horizontal">
+                    <materialDesign:PackIcon Kind="ArrowLeft" Height="37" Width="41" MouseDown="Back_Click"/>
+                    <TextBlock
+        VerticalAlignment="Center"
+        Margin="90 0 0 0" FontSize="20">
+      EZStand
+                    </TextBlock>
+                </StackPanel>
+
+            </DockPanel>
+        </materialDesign:ColorZone>
+        <materialDesign:ColorZone
+  Mode="PrimaryMid"/>
+        <StackPanel
+    Orientation="Horizontal"
+    Margin="0,74,0,526" HorizontalAlignment="Center" Width="356" RenderTransformOrigin="0.55,3.196">
+            <RadioButton
+      Style="{StaticResource MaterialDesignTabRadioButton}"
+      Margin="4"
+      IsChecked="False"
+      Content="CARS" Width="169"  />
+            <RadioButton
+      Style="{StaticResource MaterialDesignTabRadioButton}"
+      Margin="4"
+      IsChecked="True"
+      Content="STANDS" Width="170" />
+
+        </StackPanel>
+        <TextBox
+  materialDesign:HintAssist.Hint="SEARCH CARS"
+  materialDesign:TextFieldAssist.TextBoxViewMargin="1 0 1 0"
+  materialDesign:HintAssist.FloatingScale="0.50"
+  Text=""
+  Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+  FontSize="16" Margin="2,119,65,476" KeyDown="OnKeyDownHandler"/>
+        <Button 
+  Style="{StaticResource MaterialDesignFloatingActionMiniLightButton}"
+  ToolTip="MaterialDesignFloatingActionMiniLightButton" Margin="300,130,20,470">
+            <materialDesign:PackIcon 
+    Kind="Magnify"
+    Height="24"
+    Width="24" />
+        </Button>
+        <Label Content="CarNext Matosinhos Cars" HorizontalAlignment="Left" Height="40" Margin="10,186,0,0" VerticalAlignment="Top" Width="330" FontSize="17"/>
+        <Button Height="140" Background="{StaticResource MyResource}" Margin="75,0,80,0" VerticalAlignment="Center" Click="Button_Click"/>
+        <Image Margin="75,407,80,71" RenderTransformOrigin="0.521,0.442">
+            <Image.Source>
+                <BitmapImage DecodePixelWidth="300" UriSource="/Resources/Screenshot_23.png" />
+            </Image.Source>
+        </Image>
+    </Grid>
+</Window>

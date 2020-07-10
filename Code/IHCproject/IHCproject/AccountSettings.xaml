@@ -1,0 +1,61 @@
+﻿<Window x:Class="IHCproject.AccountSettings"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        TextElement.Foreground="{DynamicResource MaterialDesignBody}"
+        TextElement.FontWeight="Regular"
+        TextElement.FontSize="13"
+        TextOptions.TextFormattingMode="Ideal"
+        TextOptions.TextRenderingMode="Auto"
+        Background="{DynamicResource MaterialDesignPaper}"
+        FontFamily="{DynamicResource MaterialDesignFont}"
+        Height="640" Width="360">
+    <Grid Height="640" Width="360" Margin="0,0,0,-16">
+        <Label Content="Account Settings" HorizontalAlignment="Center" Height="50" Margin="0,107,0,0" VerticalAlignment="Top" Width="180" FontSize="22" FontWeight="Bold" RenderTransformOrigin="0.164,1.817"/>
+        <Grid HorizontalAlignment="Left" Height="34" Margin="114,140,0,0" VerticalAlignment="Top" Width="165" Cursor=""/>
+        <materialDesign:PackIcon Kind="Account" Width="20" Height="20" Foreground="{Binding ElementName=txtemail}" Margin="28,226,0,0"></materialDesign:PackIcon>
+        <materialDesign:PackIcon Kind="Phone" Width="20" Height="20" Foreground="{Binding ElementName=txtphone}" Margin="28,373,0,0"></materialDesign:PackIcon>
+        <materialDesign:PackIcon Kind="City" Width="20" Height="20" Foreground="{Binding ElementName=txtlocation}" Margin="28,453,0,0"></materialDesign:PackIcon>
+        <materialDesign:PackIcon Kind="PasswordReset" Width="20" Height="20" Foreground="{Binding ElementName=Password}" Margin="28,298,0,0"></materialDesign:PackIcon>
+
+
+        <materialDesign:ColorZone
+  Mode="Inverted"
+  Padding="16" Grid.ColumnSpan="2">
+            <DockPanel>
+
+                <StackPanel
+      Orientation="Horizontal">
+                    <materialDesign:PackIcon Kind="ArrowLeft" Height="37" Width="41" MouseDown="Back_Click"/>
+                    <TextBlock
+        VerticalAlignment="Center"
+        Margin="90 0 0 0" FontSize="20">
+      EZStand
+                    </TextBlock>
+                </StackPanel>
+            </DockPanel>
+        </materialDesign:ColorZone>
+
+        <Button
+    Style="{StaticResource MaterialDesignRaisedLightButton}"
+    ToolTip="Resource name: MaterialDesignRaisedLightButton" RenderTransformOrigin="0.335,4.204" Margin="91,525,91,83" FontSize="18" Click="Button_Click">
+            Change Settings
+        </Button>
+        <Label Content="joaobruno@ua.pt" HorizontalAlignment="Left" Margin="100,224,0,0" VerticalAlignment="Top" Width="222" FontSize="14"/>
+        <Label Content="" HorizontalAlignment="Left" Margin="100,298,0,0" VerticalAlignment="Top" Width="222" FontSize="14"/>
+        <materialDesign:PackIcon Kind="DotsHorizontal" Width="20" Height="20" Foreground="{Binding ElementName=Password}" Margin="100,298,0,0" RenderTransformOrigin="0.6,1.402"/>
+        <materialDesign:PackIcon Kind="DotsHorizontal" Width="20" Height="20" Foreground="{Binding ElementName=Password}" Margin="115,298,0,0" RenderTransformOrigin="0.6,1.402"/>
+        <materialDesign:PackIcon Kind="DotsHorizontal" Width="20" Height="20" Foreground="{Binding ElementName=Password}" Margin="130,298,0,0" RenderTransformOrigin="0.6,1.402"/>
+        <materialDesign:PackIcon Kind="DotsHorizontal" Width="20" Height="20" Foreground="{Binding ElementName=Password}" Margin="145,298,0,0" RenderTransformOrigin="0.6,1.402"/>
+        <Label Content="961234567" HorizontalAlignment="Left" Margin="100,368,0,0" VerticalAlignment="Top" Width="222" FontSize="14"/>
+        <Label Content="Aveiro" HorizontalAlignment="Left" Margin="100,448,0,0" VerticalAlignment="Top" Width="222" FontSize="14"/>
+
+
+        
+
+
+
+    </Grid>
+</Window>
